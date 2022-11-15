@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    color: lightsalmon;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+ul li {
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 60px;
+}
+
+.photo {
+    position: relative;
+    left: 230px;
+    top: -230px;
+}
+
+.text {
+    margin: 20px;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 500px;
+    height: 335px;
+}
